@@ -132,7 +132,7 @@ print("USA, Admin, Female, Asian, BSc.:", answer) # out: [0] meaning: No!
 
 # see blog for explanation and meaning of the prediction outputs and how they match up with dataset: http://flyingsalmon.net/?p=4070
 
-# PREDICTION QUERY 2: In USA, is salary of an Exec-managerial professional of a white male gender of any race with Masters degree > 70K?
+# PREDICTION QUERY 2: In USA, is salary of an Exec-managerial professional of a male gender of any race with Masters degree > 70K?
 # From 'salary_encoded.xlsx' we find the following codes:
 # United States = 37 [country_n]
 # Exec-managerial = 4 [occupation_n]
